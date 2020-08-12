@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a mobile engineer with more than 8 years of experience.
+
 <!--
 **quetool/quetool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
