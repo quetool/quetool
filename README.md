@@ -5,7 +5,7 @@ I'm a software engineer with more than 10 years of experience. This is a short d
 |![timeline](https://user-images.githubusercontent.com/14978705/119958079-f884ec00-bfa2-11eb-8638-5c7a510787e3.png)|
 |-------------|
 
-| <img src="https://github-readme-stats.vercel.app/api?username=quetool&count_private=true&show_icons=true&theme=swift&bg_color=FFFFFF&hide_border=true&hide_title=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quetool&hide=css,shell,ruby,html&langs_count=20&theme=swift&bg_color=FFFFFF&hide_border=true&layout=compact" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=quetool&count_private=true&show_icons=true&theme=default_repocard&bg_color=FFFFFF&hide_border=true&hide_title=true&icon_color=ff2200" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quetool&hide=css,shell,ruby,html&langs_count=20&theme=swift&bg_color=FFFFFF&hide_border=true&layout=compact" /> |
 | ----------- | ----------- |
 
 <br />
