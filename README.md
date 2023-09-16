@@ -7,7 +7,7 @@ I'm a software engineer with more than 10 years of experience. This is a short d
 #
 #### Here are my stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=quetool&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quetool&hide=css,shell,ruby,html&langs_count=20&theme=swift&bg_color=FFFFFF&hide_border=true&layout=compact" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=quetool&count_private=true&show_icons=true&theme=default_repocard" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quetool&hide=css,shell,ruby,html&langs_count=20&theme=swift&bg_color=FFFFFF&hide_border=true&layout=compact" /> |
 | ----------- | ----------- |
 
 Kudos to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for this package
