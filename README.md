@@ -12,11 +12,10 @@ I'm a software engineer with more than 10 years of experience. This is a short d
 
 Kudos to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for this package
 #
-#### Two current packages published on [pub.dev](https://pub.dev)
+#### Flutter Engineer at WalletConnect
 
-| <a href="https://github.com/quetool/rawg_sdk_dart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=quetool&repo=rawg_sdk_dart&show_icons=true&theme=default_repocard&bg_color=FFFFFF&hide_border=true&hide_title=true&icon_color=ff2200"></a> | <a href="https://github.com/LokaHQ/camera_roll_uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lokahq&repo=camera_roll_uploader&show_icons=true&theme=default_repocard&bg_color=FFFFFF&hide_border=true&hide_title=true&icon_color=ff2200"></a> |
+| <a href="https://github.com/WalletConnect/Web3ModalFlutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalletConnect&repo=Web3ModalFlutter&show_icons=true&theme=default_repocard&bg_color=FFFFFF&hide_border=true&hide_title=true&icon_color=ff2200"></a> | <a href="https://github.com/WalletConnect/WalletConnectFlutterV2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WalletConnect&repo=WalletConnectFlutterV2&show_icons=true&theme=default_repocard&bg_color=FFFFFF&hide_border=true&hide_title=true&icon_color=ff2200"></a> |
 | ----------- | ----------- |
-| [rawg_sdk_dart](https://pub.dev/packages/rawg_sdk_dart) on pub.dev | * Working as a contractor for [Loka](https://loka.com/) <br /> [camera_roll_uploader](https://pub.dev/packages/camera_roll_uploader) on pub.dev |
 
 #
 #### I wrote a little about Flutter...
