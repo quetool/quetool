@@ -11,11 +11,6 @@ I'm a software engineer with more than 10 years of experience. This is a short d
 | ----------- | ----------- |
 
 Kudos to [anuraghazra](https://github.com/anuraghazra/github-readme-stats) for this package
-#
-#### Flutter Engineer at [Reown](https://reown.com) (formerly WalletConnect, Inc.)
-
-| <a href="https://github.com/reown-com/reown_flutter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=reown-com&repo=reown_flutter&show_icons=true&theme=default_repocard&bg_color=FFFFFF&hide_border=true&hide_title=true&icon_color=ff2200"></a> 
-| ----------- |
 
 #
 #### I wrote a little about Flutter...
