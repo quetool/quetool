@@ -1,10 +1,7 @@
-## Hi there 👋
+## About me
 
-I'm a software engineer with more than 10 years of experience. This is a short description about my career...
+Flutter SDK engineer with more than of 8 years of experience — maintainer of **9** Reown/WalletConnect packages. Contributed to Rust low-level libs and led the Flutter implementation of WalletConnect Pay, AppKit, WalletKit, POS SDK amongst other well know and widely used SDKs in the Web3 ecosystem. Focus: Multiplatform integrations including Rust binding libraries, SDK/API design, clean architecture, pub.dev releases.
 
-|![timeline](https://user-images.githubusercontent.com/14978705/119958079-f884ec00-bfa2-11eb-8638-5c7a510787e3.png)|
-|-------------|
-#
 #### Here are my stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=quetool&show_icons=true&hide_border=true&hide_title=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quetool&hide=css,shell,ruby,html&langs_count=20&theme=swift&bg_color=FFFFFF&hide_border=true&layout=compact" /> |
