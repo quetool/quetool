@@ -1,6 +1,6 @@
 ## About me
 
-Flutter SDK engineer with more than of 8 years of experience — maintainer of **9** Reown/WalletConnect packages. Contributed to Rust low-level libs and led the Flutter implementation of WalletConnect Pay, AppKit, WalletKit, POS SDK amongst other well know and widely used SDKs in the Web3 ecosystem. Focus: Multiplatform integrations including Rust binding libraries, SDK/API design, clean architecture, pub.dev releases.
+Flutter SDK engineer with more than of 8 years of experience — maintainer of 9 Reown/WalletConnect packages. Contributed to Rust low-level libs and led the Flutter implementation of WalletConnect Pay, AppKit, WalletKit, POS SDK amongst other well-known and widely used SDKs in the Web3 ecosystem. Focus: Multiplatform integrations including Rust binding libraries, SDK/API design, clean architecture, pub.dev releases and more
 
 #### Here are my stats
 
