@@ -122,8 +122,7 @@ Senior mobile engineer (since 2015) specialized in **Flutter SDKs, developer exp
 ---
 
 ## References
-**Pedro Gomes (Founder & Director, WalletConnect)** — Recommendation letter available on request  
-Contact: [pedro@walletconnect.com](mailto:pedro@walletconnect.com)
+**Pedro Gomes (Founder & Director, WalletConnect)** — Recommendation letter available on request
 
 ---
 
