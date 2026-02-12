@@ -7,7 +7,7 @@
 - GitHub: [https://github.com/quetool](https://github.com/quetool)
 
 ## Professional Summary
-Senior mobile engineer (since 2015) specialized in **Flutter SDKs, developer experience, and cross-platform primitives**. I build **production-grade SDKs** that are easy to integrate, hard to break, and pleasant to maintain—covering **API design, CI/CD, release hygiene, and multi-chain transaction/signing flows**. Strong background in **native iOS/Android** and deep experience bridging **Rust ↔ mobile** using **FFI/UniFFI**.
+Senior mobile engineer specialized in **Flutter SDKs, developer experience, and cross-platform communication**. I build **production-grade SDKs** that are easy to integrate, hard to break, and pleasant to maintain—covering **API design, CI/CD, release hygiene, and multi-chain transaction/signing flows**. Strong background in **native iOS/Android** and deep experience bridging **Rust ↔ mobile** using **FFI/UniFFI**.
 
 ## What makes me stand out
 - **SDK builder mindset:** I optimize for integrators—clean APIs, backwards compatibility, clear migrations, and excellent docs.
