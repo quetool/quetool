@@ -28,7 +28,7 @@ Senior mobile engineer (since 2015) specialized in **Flutter SDKs, developer exp
 
 ### WalletConnect (Remote, US) - [https://walletconnect.network](https://walletconnect.network)
 #### *Senior Flutter SDK Engineer*
-**Sep 2023 – Present**
+**Sep 2023 – Feb 2026**
 
 - Maintained, developed, and shipped **9 Flutter packages** in a monorepo (including **WalletConnect Pay, WalletKit, AppKit, POS Client**, plus core/signing infrastructure).
 - Built **2 SDK sample apps from scratch**: (1) a dApp showcasing AppKit; (2) a full mobile wallet showcasing WalletKit + WalletConnect Pay.
