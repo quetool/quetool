@@ -127,7 +127,7 @@ Contact: [pedro@walletconnect.com](mailto:pedro@walletconnect.com)
 
 ---
 
-#### I wrote a little about Flutter...
+### I wrote a little about Flutter...
 
 |<a href="https://alfreedom.medium.com/could-flutter-be-a-life-changing-framework-60eb7fa245c7">![medium](https://raw.githubusercontent.com/quetool/quetool/master/preview_medium.png)</a>|
 | ----------- |
