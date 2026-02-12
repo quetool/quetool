@@ -1,5 +1,5 @@
 # Alfredo Rinaudo
-**Senior Mobile / SDK Engineer (Flutter • Rust • iOS/Android) — Web3 / Payments / DevTools**
+**Senior Mobile / SDK Engineer (Flutter/Dart • Swift/Kotlin) — Web3 / Payments / DevTools**
 
 - Location: Spain (Remote, EU-friendly time zones)
 - Email: [alfreedom.dev@icloud.com](mailto:alfreedom.dev@icloud.com)
