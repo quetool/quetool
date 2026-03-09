@@ -26,6 +26,17 @@ Senior mobile engineer specialized in **Flutter SDKs, developer experience, and 
 
 ## Experience
 
+
+### Teroxx - The Digital Asset Boutique (Remote, CY) - [https://teroxx.com](https://teroxx.com)
+#### *Senior Flutter Developer*
+**Mar 2026 – Present**
+
+- Senior Flutter Developer
+
+**Tech:** Flutter, Dart, Kotlin, Swift, Rust, GitHub Actions, JSON-RPC
+
+---
+
 ### WalletConnect (Remote, US) - [https://walletconnect.network](https://walletconnect.network)
 #### *Senior Flutter SDK Engineer*
 **Sep 2023 – Feb 2026**
